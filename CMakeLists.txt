@@ -6,7 +6,7 @@ enable_testing()
 
 add_executable(
     binary_trees
-    8-main.c
+    9-main.c
     0-binary_tree_node.c
     1-binary_tree_insert_left.c
     2-binary_tree_insert_right.c
